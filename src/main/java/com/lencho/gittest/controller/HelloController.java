@@ -20,4 +20,6 @@ public class HelloController {
         return "hello git";
     }
 
+    public String helloJava(){ return "hello java";}
+
 }
