@@ -22,7 +22,7 @@ public class HelloController {
 
     public String helloJava(){ return "hello java";}
 
-    public String helloScala(){return "hello scala";}
+    public String helloScala(){return "hello scala!!!";}
 
     public String helloSpark(){ return "hello spark!!!";}
 
