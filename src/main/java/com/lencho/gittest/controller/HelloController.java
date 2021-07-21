@@ -22,4 +22,6 @@ public class HelloController {
 
     public String helloJava(){ return "hello java";}
 
+    public String helloSpark(){ return "hello spark";}
+
 }
