@@ -24,6 +24,6 @@ public class HelloController {
 
     public String helloScala(){return "hello scala";}
 
-    public String helloSpark(){ return "hello spark";}
+    public String helloSpark(){ return "hello spark!!!";}
 
 }
