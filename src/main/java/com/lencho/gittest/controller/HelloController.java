@@ -15,4 +15,9 @@ public class HelloController {
         return "hello springboot!!!";
     }
 
+    @GetMapping("/helloGit")
+    public String helloGit(){
+        return "hello git";
+    }
+
 }
